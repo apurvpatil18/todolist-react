@@ -1,3 +1,21 @@
+# ToDo List React web - App
+
+Description:
+This is a  ToDo List React web-app that allows users to manage their tasks and notes effectively. With this app, users can easily add various types of notes, track their progress, and organize their daily activities. The app provides intuitive features to approve or delete notes from the list, allowing users to stay on top of their tasks.
+
+# Key Features:
+- Add Notes: Users can create and add different types of notes, such as tasks, reminders, ideas, or any other relevant information.
+- Edit and Update: Users have the flexibility to edit and update the notes whenever needed, ensuring accurate and up-to-date information.
+- Complete and Approve: Users can mark tasks as completed or approved, providing a sense of accomplishment and progress tracking.
+- Delete Notes: If a note is no longer relevant or required, users can easily delete it from the list.
+- User-friendly Interface: The app offers an intuitive and user-friendly interface, making it easy to navigate and interact with the notes.
+- Responsive Design: The app is built with a responsive design, ensuring a seamless user experience across various devices and screen sizes.
+
+By using this simple ToDo app, users can efficiently manage their tasks, stay organized, and enhance their productivity. It provides a convenient way to track progress, prioritize tasks, and maintain an overview of important notes and activities.
+
+# Key Points Technical
+React basics such as components, state, props. React Hooks lifecycle ie useEffect() and using controlled HTML form in React.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
